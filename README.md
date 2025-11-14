@@ -6,7 +6,7 @@ API desarrollada con FastAPI para la gestión académica institucional. Protegid
 
 ```bash
 git clone https://github.com/JoselynD26/Sistema-de-Gestion.git
-cd sistema-academico
+cd Sistema-de-Gestion
 pip install -r requirements.txt
 
 ## Activar entirno virtual
